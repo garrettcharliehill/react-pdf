@@ -1,15 +1,15 @@
 {
-  "name": "@react-pdf/layout",
-  "version": "3.1.2",
+  "name": "@garrettcharliehill/layout",
+  "version": "3.1.3",
   "license": "MIT",
   "description": "Resolve overall document component's layout",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "author": "Charlie Hill <garrettcharliehill@gmail.com>",
+  "homepage": "https://github.com/garrettcharliehill/react-pdf#readme",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/garrettcharliehill/react-pdf.git",
     "directory": "packages/layout"
   },
   "scripts": {
@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.16.4",
+    "@garrettcharliehill/yoga": "^2.0.4",
     "@react-pdf/fns": "1.0.0",
     "@react-pdf/image": "^2.1.1",
     "@react-pdf/pdfkit": "^2.4.0",
@@ -26,7 +27,6 @@
     "@react-pdf/stylesheet": "^3.2.0",
     "@react-pdf/textkit": "^4.0.0",
     "@react-pdf/types": "^2.1.0",
-    "@react-pdf/yoga": "^2.0.4",
     "cross-fetch": "^3.1.5",
     "emoji-regex": "^8.0.0",
     "queue": "^6.0.1"
