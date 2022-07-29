@@ -1,4 +1,4 @@
-import Yoga from '@react-pdf/yoga';
+import Yoga from '@garrettcharliehill/yoga';
 
 import getBorderWidth from '../../src/node/getBorderWidth';
 

@@ -2,12 +2,12 @@
 '@react-pdf/fns': major
 '@react-pdf/pdfkit': major
 '@react-pdf/stylesheet': major
-'@react-pdf/yoga': major
+'@garrettcharliehill/yoga': major
 '@react-pdf/font': minor
 '@react-pdf/image': minor
-'@react-pdf/layout': minor
+'@garrettcharliehill/layout': minor
 '@react-pdf/png-js': minor
-'@react-pdf/renderer': minor
+'@garrettcharliehill/react-pdf-renderer': minor
 '@react-pdf/textkit': minor
 ---
 

@@ -1,5 +1,5 @@
 ---
-'@react-pdf/renderer': major
+'@garrettcharliehill/react-pdf-renderer': major
 '@react-pdf/font': patch
 '@react-pdf/pdfkit': patch
 ---

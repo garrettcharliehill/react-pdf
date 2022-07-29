@@ -1,5 +1,5 @@
 ---
-'@react-pdf/renderer': patch
+'@garrettcharliehill/react-pdf-renderer': patch
 ---
 
 fix: bad type on onClick

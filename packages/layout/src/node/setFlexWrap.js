@@ -1,4 +1,4 @@
-import Yoga from '@react-pdf/yoga';
+import Yoga from '@garrettcharliehill/yoga';
 
 const FLEX_WRAP = {
   wrap: Yoga.WRAP_WRAP,

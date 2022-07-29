@@ -1,4 +1,4 @@
-import Yoga from '@react-pdf/yoga';
+import Yoga from '@garrettcharliehill/yoga';
 
 import setAlignSelf from '../../src/node/setAlignSelf';
 

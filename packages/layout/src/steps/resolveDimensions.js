@@ -1,4 +1,4 @@
-import Yoga from '@react-pdf/yoga';
+import Yoga from '@garrettcharliehill/yoga';
 import * as P from '@react-pdf/primitives';
 import { isNil, compose } from '@react-pdf/fns';
 

@@ -1,4 +1,4 @@
-# @react-pdf/layout
+# @garrettcharliehill/layout
 
 ## 3.1.2
 
@@ -96,4 +96,4 @@
   - @react-pdf/primitives@2.0.2
   - @react-pdf/textkit@2.1.0
   - @react-pdf/types@2.0.8
-  - @react-pdf/yoga@2.0.4
+  - @garrettcharliehill/yoga@2.0.4

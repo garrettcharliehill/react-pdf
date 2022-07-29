@@ -1,5 +1,5 @@
 ---
-'@react-pdf/layout': patch
+'@garrettcharliehill/layout': patch
 ---
 
 refactor: yoga node prop name

@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-expressions */
-import Yoga from '@react-pdf/yoga';
+import Yoga from '@garrettcharliehill/yoga';
 import { isNil, upperFirst, matchPercent } from '@react-pdf/fns';
 
 /**

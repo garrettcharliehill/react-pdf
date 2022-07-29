@@ -1,4 +1,4 @@
-# @react-pdf/yoga
+# @garrettcharliehill/yoga
 
 ## 2.0.4
 ### Patch Changes
