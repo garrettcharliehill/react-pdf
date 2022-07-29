@@ -1,16 +1,16 @@
 {
-  "name": "@react-pdf/renderer",
-  "version": "2.3.0",
+  "name": "@garrettcharliehill/react-pdf-renderer",
+  "version": "2.3.1",
   "license": "MIT",
   "description": "Create PDF files on the browser and server",
   "types": "index.d.ts",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "author": "Charlie Hill <garrettcharliehill@gmail.com>",
+  "homepage": "https://github.com/garrettcharliehill/react-pdf#readme",
   "main": "./lib/react-pdf.cjs.js",
   "module": "./lib/react-pdf.es.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/garrettcharliehill/react-pdf.git",
     "directory": "packages/renderer"
   },
   "browser": {
@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.16.4",
+    "@garrettcharliehill/layout": "^3.1.2",
     "@react-pdf/font": "^2.2.1",
-    "@react-pdf/layout": "^3.1.2",
     "@react-pdf/pdfkit": "^2.4.0",
     "@react-pdf/primitives": "^3.0.0",
     "@react-pdf/render": "^3.2.0",
